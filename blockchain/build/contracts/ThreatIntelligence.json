@@ -12406,12 +12406,12 @@
         }
       },
       "links": {},
-      "address": "0x300e300A17DA2030410799AE31dB9A9F9d488A2E",
-      "transactionHash": "0x4a4d722a311d2f81fc7f4ead6661f4dc2a64877170935e4adeb92eb63c141522"
+      "address": "0x50C1b78FEd48BfbfF46570d4383bdeb7Eff8a0E3",
+      "transactionHash": "0xa7f430410932e52af3a497b908cbad615f11fd936ae2cc70cf5e2d75e08dc5ee"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-03-07T05:16:54.410Z",
+  "updatedAt": "2025-03-07T06:36:56.162Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

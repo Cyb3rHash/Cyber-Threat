@@ -5,7 +5,7 @@ const ThreatIntelligenceJSON = require('../../blockchain/build/contracts/ThreatI
 // ✅ Ensure Web3 connects to the correct blockchain network
 const web3 = new Web3(process.env.GANACHE_URL || 'http://localhost:7545'); // ✅ Fixed for Web3.js v4+
 
-const contractAddress = process.env.CONTRACT_ADDRESS || '0x300e300A17DA2030410799AE31dB9A9F9d488A2E'; // Replace with deployed contract address
+const contractAddress = process.env.CONTRACT_ADDRESS || '0x50C1b78FEd48BfbfF46570d4383bdeb7Eff8a0E3'; // Replace with deployed contract address
 
 console.log('📌 Contract Address:', contractAddress);
 
